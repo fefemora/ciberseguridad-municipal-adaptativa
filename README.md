@@ -24,7 +24,7 @@ La primera edición tiene su release github el 18 de noviembre de 2026 en [GitHu
 | [Controles CIS](docs/controles-cis.md) | Correspondencia de controles y alcance de IG1. |
 | [Matriz RACI](docs/matriz-raci.md) | Responsabilidades y aprobaciones por actividad. |
 | [Figuras del diagnóstico](docs/figuras-diagnostico.md) | Contexto, marcos y apoyos visuales para aplicar el diagnóstico. |
-| [Conclusiones y recomendaciones](docs/conclusiones.md) | Los siete apartados del capítulo 5, desde los hallazgos hasta la conclusión general. |
+| [Conclusiones y recomendaciones](docs/conclusiones.md) |  Hallazgos hasta la conclusiones. |
 | [Glosario](docs/glosario.md) | Términos técnicos, siglas y roles utilizados en el modelo. |
 | [Versiones y citación](docs/versiones-y-citacion.md) | Cómo elegir y citar una edición. |
 | [Historial de cambios](CHANGELOG.md) | Cambios incorporados en cada versión. |
