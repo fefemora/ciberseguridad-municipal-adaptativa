@@ -17,4 +17,4 @@ El trabajo se basa en una investigación documental. Su resultado es el diseño 
 
 ## Primera edición
 
-La edición `v1.0.0` está en preparación. Su PDF estará disponible en [Releases](../../releases) una vez publicado.
+La edición `v1.0.0` está en preparación. Su PDF estará disponible en [Releases](https://github.com/fefemora/ciberseguridad-municipal-adaptativa/releases) una vez publicado.
