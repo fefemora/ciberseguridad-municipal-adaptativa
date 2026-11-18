@@ -1,6 +1,6 @@
 # Diseño de un Modelo de Ciberseguridad Adaptativo para Municipalidades Chilenas de Categoría 3 y 4 Basado en Fuentes Abiertas y Estándares Internacionales
 
-**Fernando Mora Miranda** · Proyecto de título de Ingeniería en Ciberseguridad · Universidad Internacional SEK · 2025
+**Fernando Mora Miranda** · Proyecto de título de Ingeniería en Ciberseguridad · Universidad Internacional SEK · Diciembre 2025
 
 El Modelo de Ciberseguridad Adaptativo (MCA) propone una ruta gradual para que municipalidades chilenas de categorías 3 y 4 con recursos limitados puedan identificar sus activos críticos, formalizar responsabilidades y priorizar controles de seguridad. El modelo combina NIST CSF como marco de referencia y una selección de salvaguardas de CIS Controls IG1.
 
@@ -8,7 +8,7 @@ El trabajo se basa en una investigación documental. Su resultado es el diseño 
 
 ## Descargar la primera edición (`v1.0.0`)
 
-La primera edición está disponible desde el 18 de noviembre de 2026 en [GitHub Releases](https://github.com/fefemora/ciberseguridad-municipal-adaptativa/releases/tag/ciberseguridad). Las descargas requieren acceso al repositorio privado.
+La primera edición tiene su release github el 18 de noviembre de 2026 en [GitHub Releases](https://github.com/fefemora/ciberseguridad-municipal-adaptativa/releases/tag/ciberseguridad) y
 
 | PDF | Contenido |
 | --- | --- |
