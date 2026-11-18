@@ -8,7 +8,7 @@ La primera edición pública está prevista como `v1.0.0`. El proyecto de títul
 | `v1.1.0` | Ampliación compatible, como una plantilla o un anexo nuevo. |
 | `v2.0.0` | Cambio sustantivo al modelo o a su metodología. |
 
-Cada edición tendrá una publicación independiente en [Releases](../../releases), con sus notas de cambios y sus propios archivos descargables. Para reutilizar el modelo, consulta las notas y descarga el PDF de la edición que quieras aplicar.
+Cada edición tendrá una publicación independiente en [Releases](https://github.com/fefemora/ciberseguridad-municipal-adaptativa/releases), con sus notas de cambios y sus propios archivos descargables. Para reutilizar el modelo, consulta las notas y descarga el PDF de la edición que quieras aplicar.
 
 ## Cómo citar
 
