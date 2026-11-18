@@ -1,6 +1,9 @@
 # Versiones y citación
 
-La primera edición pública está prevista como `v1.0.0`. El proyecto de título está fechado el 29 de noviembre de 2025. La edición del repositorio llevará la fecha efectiva de su publicación.
+La primera edición del repositorio, `v1.0.0`, se publicó el 18 de noviembre de 2026 en [GitHub Releases](https://github.com/fefemora/ciberseguridad-municipal-adaptativa/releases/tag/ciberseguridad), bajo la etiqueta de Git `ciberseguridad`. El proyecto de título está fechado el 29 de noviembre de 2025.
+
+- [Edición documentada para GitHub](https://github.com/fefemora/ciberseguridad-municipal-adaptativa/releases/download/ciberseguridad/Modelo_Ciberseguridad_Adaptativo_git_ver_v1.0.0.pdf).
+- [Proyecto de título académico](https://github.com/fefemora/ciberseguridad-municipal-adaptativa/releases/download/ciberseguridad/Proyecto_de_Titulo_Fernando_Mora_acad_ver._v1.0.0.pdf).
 
 | Ejemplo | Tipo de cambio |
 | --- | --- |

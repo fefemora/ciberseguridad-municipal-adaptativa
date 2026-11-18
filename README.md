@@ -6,6 +6,15 @@ El Modelo de Ciberseguridad Adaptativo (MCA) propone una ruta gradual para que m
 
 El trabajo se basa en una investigación documental. Su resultado es el diseño del modelo y una guía de adopción. La aplicación y validación en un municipio concreto quedan como trabajo posterior.
 
+## Descargar la primera edición (`v1.0.0`)
+
+La primera edición está disponible desde el 18 de noviembre de 2026 en [GitHub Releases](https://github.com/fefemora/ciberseguridad-municipal-adaptativa/releases/tag/ciberseguridad). Las descargas requieren acceso al repositorio privado.
+
+| PDF | Contenido |
+| --- | --- |
+| [Edición documentada para GitHub](https://github.com/fefemora/ciberseguridad-municipal-adaptativa/releases/download/ciberseguridad/Modelo_Ciberseguridad_Adaptativo_git_ver_v1.0.0.pdf) | Presenta el modelo, la metodología y la guía de implementación en una edición resumida. |
+| [Proyecto de título académico](https://github.com/fefemora/ciberseguridad-municipal-adaptativa/releases/download/ciberseguridad/Proyecto_de_Titulo_Fernando_Mora_acad_ver._v1.0.0.pdf) | Trabajo completo entregado a la Universidad Internacional SEK. |
+
 ## Documentación
 
 | Documento | Contenido |
@@ -18,8 +27,4 @@ El trabajo se basa en una investigación documental. Su resultado es el diseño 
 | [Conclusiones y recomendaciones](docs/conclusiones.md) | Los siete apartados del capítulo 5, desde los hallazgos hasta la conclusión general. |
 | [Glosario](docs/glosario.md) | Términos técnicos, siglas y roles utilizados en el modelo. |
 | [Versiones y citación](docs/versiones-y-citacion.md) | Cómo elegir y citar una edición. |
-| [Historial de cambios](CHANGELOG.md) | Cambios incorporados y estado de la primera publicación. |
-
-## Primera edición
-
-La edición `v1.0.0` está en preparación. Su PDF estará disponible en [Releases](https://github.com/fefemora/ciberseguridad-municipal-adaptativa/releases) una vez publicado.
+| [Historial de cambios](CHANGELOG.md) | Cambios incorporados en cada versión. |

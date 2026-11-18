@@ -1,6 +1,6 @@
 # Historial de cambios
 
-## En preparación
+## [`v1.0.0`](https://github.com/fefemora/ciberseguridad-municipal-adaptativa/releases/tag/ciberseguridad) · 18 de noviembre de 2026
 
 - Presentación del modelo y de su alcance en el README.
 - Síntesis de la metodología documental y del diagnóstico de brechas.
@@ -13,4 +13,4 @@
 
 - Incorporación de los siete apartados del capítulo 5 y del glosario de la tesis.
 
-La entrega `v1.0.0` se registrará aquí cuando se publique.
+- Publicación de la edición documentada para GitHub y del proyecto de título académico como archivos PDF descargables.
