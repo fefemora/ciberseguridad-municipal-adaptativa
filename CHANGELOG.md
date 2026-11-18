@@ -11,4 +11,6 @@
 - Corrección de la numeración y el alcance de CIS Controls v8.1.
 - Revisión de la matriz RACI para identificar un aprobador por actividad.
 
+- Incorporación de los siete apartados del capítulo 5 y del glosario de la tesis.
+
 La entrega `v1.0.0` se registrará aquí cuando se publique.
