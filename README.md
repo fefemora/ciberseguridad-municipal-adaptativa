@@ -12,6 +12,9 @@ El trabajo se basa en una investigación documental. Su resultado es el diseño 
 | --- | --- |
 | [Metodología de diagnóstico](docs/metodologia.md) | Fuentes, supuestos y análisis de brechas. |
 | [Modelo e implementación](docs/modelo-e-implementacion.md) | Ciclo de implementación, diagrama, hoja de ruta, roles e indicadores. |
+| [Controles CIS](docs/controles-cis.md) | Correspondencia de controles y alcance de IG1. |
+| [Matriz RACI](docs/matriz-raci.md) | Responsabilidades y aprobaciones por actividad. |
+| [Figuras del diagnóstico](docs/figuras-diagnostico.md) | Contexto, marcos y apoyos visuales para aplicar el diagnóstico. |
 | [Versiones y citación](docs/versiones-y-citacion.md) | Cómo elegir y citar una edición. |
 | [Historial de cambios](CHANGELOG.md) | Cambios incorporados y estado de la primera publicación. |
 

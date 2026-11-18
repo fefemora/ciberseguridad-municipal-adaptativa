@@ -15,4 +15,6 @@ La tesis desarrolla un estudio documental y descriptivo. El diagnóstico se basa
 
 La tesis delimita su aporte al diseño del modelo y de su guía. Los resultados operacionales requieren comprobación mediante un piloto o una implementación municipal.
 
+Consulta las [figuras del diagnóstico](figuras-diagnostico.md) para ver el flujo de revisión documental y los criterios de priorización.
+
 Base documental: capítulos 1 y 3 del proyecto de título.

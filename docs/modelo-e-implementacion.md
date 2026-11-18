@@ -4,13 +4,9 @@ El Modelo de Ciberseguridad Adaptativo (MCA) utiliza NIST CSF como marco de refe
 
 ## Ciclo de implementación
 
-```mermaid
-flowchart TD
-    A["Diagnóstico y priorización"] --> B["Diseño y gobernanza"]
-    B --> C["Ejecución operacional"]
-    C --> D["Evaluación y mejora"]
-    D -->|Brechas y resultados| A
-```
+![Ciclo de diagnóstico, gobernanza, ejecución y mejora del MCA](../imagenes/ciclo-mca.webp)
+
+*Figura del proyecto de título, sección 4.7. El Tier 2 representa el objetivo del modelo.*
 
 | Fase | Trabajo principal | Evidencia esperada |
 | --- | --- | --- |
@@ -23,6 +19,10 @@ flowchart TD
 
 La tesis describe cuatro niveles de adopción del MCA: **Identificar**, **Formalizar**, **Ejecución técnica** y **Recuperar**. Estos niveles ordenan la adopción municipal. El Tier 2 de NIST es el estado de referencia al que apunta el modelo.
 
+![Hoja de ruta del MCA en cuatro niveles de adopción](../imagenes/hoja-de-ruta-mca.webp)
+
+*Figura del proyecto de título, sección 4.8.*
+
 ## Roles propuestos
 
 | Rol del modelo | Responsabilidad principal |
@@ -31,7 +31,7 @@ La tesis describe cuatro niveles de adopción del MCA: **Identificar**, **Formal
 | Oficial de Riesgo y Cumplimiento (ORC) | Supervisar el registro de riesgos y el seguimiento de los compromisos. |
 | Patrocinador Ejecutivo (PE) | Aprobar la política y patrocinar la continuidad y recuperación. |
 
-La asignación a cargos existentes debe ajustarse al organigrama y a las atribuciones del municipio. La matriz RACI identifica quién ejecuta, quién aprueba, quién debe ser consultado y quién debe ser informado por tarea.
+La asignación a cargos existentes debe ajustarse al organigrama y a las atribuciones del municipio. La [matriz RACI](matriz-raci.md) identifica quién ejecuta, quién aprueba, quién debe ser consultado y quién debe ser informado por tarea.
 
 ## Indicadores de seguimiento
 
@@ -43,4 +43,6 @@ La asignación a cargos existentes debe ajustarse al organigrama y a las atribuc
 | Eficacia de respaldos | Restauraciones exitosas sobre el total de pruebas realizadas. |
 | Asignación de roles | Verificación de las designaciones y responsabilidades documentadas. |
 
-Base documental: capítulo 4 del proyecto de título. El diagrama es una adaptación para GitHub del flujo descrito en la sección 4.7.
+Consulta la [correspondencia con CIS Controls v8.1](controles-cis.md) para identificar los controles y salvaguardas relacionados.
+
+Base documental del modelo: capítulo 4 del proyecto de título.
