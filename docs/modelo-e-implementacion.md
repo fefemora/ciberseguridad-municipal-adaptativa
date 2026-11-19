@@ -1,5 +1,9 @@
 # Modelo e implementación
 
+[Portada](../README.md) · [Índice de documentación](../README.md#documentación) · [Cómo citar](versiones-y-citacion.md#cómo-citar)
+
+[![Implementación](../imagenes/etiqueta-implementacion.svg)](../README.md#documentación)
+
 El Modelo de Ciberseguridad Adaptativo (MCA) utiliza NIST CSF como marco de referencia para organizar la gestión del riesgo y CIS Controls IG1 como referencia para priorizar salvaguardas. La propuesta ajusta las tareas a la capacidad operativa del municipio y concentra el esfuerzo inicial en servicios y activos críticos.
 
 ## Ciclo de implementación

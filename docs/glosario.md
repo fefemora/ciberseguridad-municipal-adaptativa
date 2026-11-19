@@ -1,5 +1,9 @@
 # Glosario
 
+[Portada](../README.md) · [Índice de documentación](../README.md#documentación) · [Cómo citar](versiones-y-citacion.md#cómo-citar)
+
+[![Referencia académica](../imagenes/etiqueta-referencia.svg)](../README.md#documentación)
+
 Términos del proyecto de título y siglas utilizadas en la documentación del MCA.
 
 | Término | Definición |

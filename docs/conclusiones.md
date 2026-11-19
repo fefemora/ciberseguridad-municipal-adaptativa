@@ -1,5 +1,9 @@
 # Capítulo 5 · Conclusiones y recomendaciones
 
+[Portada](../README.md) · [Índice de documentación](../README.md#documentación) · [Cómo citar](versiones-y-citacion.md#cómo-citar)
+
+[![Referencia académica](../imagenes/etiqueta-referencia.svg)](../README.md#documentación)
+
 Este capítulo recoge la interpretación del autor a partir de la revisión documental y del diseño del Modelo de Ciberseguridad Adaptativo (MCA). El estudio formula una propuesta y deja su validación en terreno como línea de investigación.
 
 ## 5.1 Síntesis de hallazgos y cumplimiento de objetivos

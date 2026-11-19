@@ -1,5 +1,9 @@
 # Figuras del diagnóstico municipal
 
+[Portada](../README.md) · [Índice de documentación](../README.md#documentación) · [Cómo citar](versiones-y-citacion.md#cómo-citar)
+
+[![Diagnóstico](../imagenes/etiqueta-diagnostico.svg)](../README.md#documentación)
+
 Los diagramas son adaptaciones para GitHub de las figuras y secciones de diagnóstico de la tesis. Los gráficos estadísticos del Word se sintetizan aquí como criterios de revisión local. Para cifras históricas, consulta los informes citados en el proyecto de título.
 
 ## Contexto municipal

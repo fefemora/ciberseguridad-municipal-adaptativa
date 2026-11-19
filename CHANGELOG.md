@@ -1,5 +1,9 @@
 # Historial de cambios
 
+[Portada](README.md) · [Versiones y citación](docs/versiones-y-citacion.md)
+
+[![Edición v1.0.0](imagenes/etiqueta-edicion.svg)](https://github.com/fefemora/ciberseguridad-municipal-adaptativa/releases/tag/ciberseguridad)
+
 ## [`v1.0.0`](https://github.com/fefemora/ciberseguridad-municipal-adaptativa/releases/tag/ciberseguridad) · 18 de noviembre de 2026
 
 - Presentación del modelo y de su alcance en el README.

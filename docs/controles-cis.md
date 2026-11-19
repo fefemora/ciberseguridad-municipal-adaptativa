@@ -1,5 +1,9 @@
 # Correspondencia con CIS Controls v8.1
 
+[Portada](../README.md) · [Índice de documentación](../README.md#documentación) · [Cómo citar](versiones-y-citacion.md#cómo-citar)
+
+[![Implementación](../imagenes/etiqueta-implementacion.svg)](../README.md#documentación)
+
 | Actividad del MCA | Control CIS v8.1 |
 | --- | --- |
 | Inventario de equipos y otros activos | **1** · Inventario y control de activos empresariales |

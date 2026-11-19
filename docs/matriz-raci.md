@@ -1,5 +1,9 @@
 # Matriz RACI municipal
 
+[Portada](../README.md) · [Índice de documentación](../README.md#documentación) · [Cómo citar](versiones-y-citacion.md#cómo-citar)
+
+[![Implementación](../imagenes/etiqueta-implementacion.svg)](../README.md#documentación)
+
 Esta matriz adapta la propuesta de la sección 4.5 a tres roles: **OSL** (Oficial de Seguridad Lógico), **ORC** (Oficial de Riesgo y Cumplimiento) y **PE** (Patrocinador Ejecutivo). Cada fila tiene un ejecutor **R** y un único aprobador **A**. **C** identifica a quien aporta criterio antes de actuar y **I** a quien recibe información sobre el resultado.
 
 | Actividad | OSL | ORC | PE |

@@ -1,5 +1,9 @@
 # Metodología de diagnóstico
 
+[Portada](../README.md) · [Índice de documentación](../README.md#documentación) · [Cómo citar](versiones-y-citacion.md#cómo-citar)
+
+[![Diagnóstico](../imagenes/etiqueta-diagnostico.svg)](../README.md#documentación)
+
 La tesis desarrolla un estudio documental y descriptivo. El diagnóstico se basa en información pública, como informes financieros, organigramas y documentos institucionales. El punto de partida del modelo es inferencial. Para aplicar el modelo a un municipio concreto, el equipo municipal debe contrastar esa estimación con evidencia de su operación.
 
 1. **Caracterizar el contexto.** Registrar fuentes, fechas, disponibilidad de personal, recursos y servicios municipales críticos.
