@@ -14,7 +14,7 @@ El trabajo se basa en una investigación documental. Su resultado es el diseño 
 
 ## Descargar la primera edición (`v1.0.0`)
 
-La primera edición tiene su release github el 18 de noviembre de 2026 en [GitHub Releases](https://github.com/fefemora/ciberseguridad-municipal-adaptativa/releases/tag/ciberseguridad) y
+La primera edición tiene su release github el 18 de noviembre de 2026 en [GitHub Releases](https://github.com/fefemora/ciberseguridad-municipal-adaptativa/releases/tag/ciberseguridad)
 
 | PDF | Contenido |
 | --- | --- |
